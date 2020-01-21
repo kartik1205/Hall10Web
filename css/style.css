@@ -1415,5 +1415,11 @@ input[type="text"] {
 .js .animate-box {
   opacity: 0;
 }
+.contactinfo {
+  
+  text-align: left;
+ 
+  margin-left: 5%;
+}
 
 /*# sourceMappingURL=style.css.map */
